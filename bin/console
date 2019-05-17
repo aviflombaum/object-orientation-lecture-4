@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+require 'pry'
+
+require_relative '../lib/person'
+require_relative '../lib/superhero'
+
+Pry.start
